@@ -1,0 +1,18 @@
+.formStyle {
+  background-color: aqua;
+  border: 2px solid skyblue;
+  /* margin: 20px; */
+  border-radius: 8px;
+  font-family: "Courier New", Courier, monospace;
+}
+.input-block {
+  height: 30px;
+  margin: 10px;
+}
+.button {
+  font-size: 18px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: blue;
+  color: white;
+  border: none;
+}
